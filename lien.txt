@@ -1,3 +1,4 @@
 https://scholar.google.com/scholar?start=0&q=condensateur+rendement&hl=fr&as_sdt=0,5
 https://www.mattech-journal.org/articles/mattech/abs/1942/01/mattech19422410p223/mattech19422410p223.html
 https://www.sandia.gov/ess-ssl/EESAT/2002_papers/00022.pdf
+https://www.researchgate.net/publication/228896013_Ant_colony_optimization_to_shunt_capacitor_allocation_in_radial_distribution_systems
